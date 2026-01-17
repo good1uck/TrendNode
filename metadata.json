@@ -1,0 +1,5 @@
+{
+  "name": "TrendNode - News Divergence AI",
+  "description": "An interactive news trend exploration tool that uses Gemini AI to expand keywords into visual trend networks with glassmorphism UI.",
+  "requestFramePermissions": []
+}
